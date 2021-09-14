@@ -1,7 +1,7 @@
 ### Prazer , Daniel Bandeira
 
 - Work with Unity 2D and 3D
-- Game developer of Flag Games Company
+- Owner of Flag Games Company
 
 <div>
   <a href="https://github.com/rafaballerini">
