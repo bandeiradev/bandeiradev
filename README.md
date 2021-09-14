@@ -1,4 +1,8 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Prazer , Daniel Bandeira
+
+- Owner of Flag Games Company
+- Work with Unity 2D and 3D
+
  <div>
   <a href="https://github.com/bandeiradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandeiradev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
